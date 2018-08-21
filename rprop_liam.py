@@ -7,7 +7,10 @@ def f(x):
 
 def derivative_f(x):
     return 3 * (x ** 2) - 2 + 2 * x
-
+"""
+step 22: x = 0.542483, f(x) = -10.631032,gradient=-0.032171
+震荡平稳，在22步停止
+"""
 x = 0.0
 y = 0.0
 

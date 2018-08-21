@@ -9,7 +9,10 @@ def f(x):
 
 def derivative_f(x):
     return 3 * (x ** 2) - 2 + 2 * x
-
+"""
+step 1212: x = 0.548571, f(x) = -10.631130,gradient=-0.000089
+已收敛，在1212步停止
+"""
 x = 0.0
 y = 0.0
 
